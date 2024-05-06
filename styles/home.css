@@ -1,0 +1,122 @@
+.top-image{
+    width: 1730px;
+    height: 200px;
+   
+}
+
+body {
+    margin-top: 0;
+    padding-top: 0;
+    background-image: url('../images/backgroundimage.png'); /* Replace 'background.jpg' with the path to your background image */
+    background-size: cover; /* Cover the entire background */
+    background-position: center; /* Center the background */
+    background-repeat: no-repeat; /* Prevent background image from repeating */
+    height: 100vh; /* Set height to 100% of viewport height */
+    font-family: Arial, sans-serif; /* Specify font-family */
+    background-attachment: fixed;
+
+    }
+    
+
+
+.backgroundimg {
+   
+   /* Replace 'background.jpg' with the path to your background image */
+   margin-top:-4px ;
+   padding: 0;
+    background-position: center; /* Center the background */
+    font-family: Arial, sans-serif; /* Specify font-family */
+    width: 1920px;
+
+}
+
+.homeparag{
+    font-weight: bold;
+    margin-left: 1430px;
+    font-size: 25px;
+    margin-top: 120px;
+    
+}
+
+.input-display{
+    margin-top: 615px;
+    background-color: #DBD9D9;
+    padding-top: 40px;
+}
+
+
+#par-align{
+    margin-left: 60px;
+   font-size: 25px;
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: bold;
+   
+
+    
+}
+#supp-text{
+    margin-left: 60px;
+   
+}
+
+.show-btn{
+    margin-top: 60px;
+    margin-left: 100px;
+    width: 140px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color:green;
+    font-size: 15px;
+
+    color: white;
+    border-radius: 30px;
+}
+
+.product-imgs{
+    margin-left: 750px;
+
+}
+
+
+.green-img{
+ width: 500px;
+ height: 300px;
+ margin-top: -230px;
+ position: relative;
+
+}
+
+.best-img{
+    width: 45   0px;
+ height: 300px;
+ margin-top: -400px;
+ padding-left: 120px;
+ margin-left: 400px;
+
+ 
+}
+#price{
+    margin-left: 400px;
+    margin-top: -20px;
+    font-style: italic;
+    font-weight: bold;
+   text-decoration: underline;
+   text-decoration-color: #169A15;
+   text-decoration-thickness:5px ;
+
+}
+
+.farmcare-display{
+    
+    background-color: #CCD7CE;
+    padding-top: 40px;
+}
+.show-btn:hover{
+    cursor: pointer;
+    color: yellow;
+    
+
+
+}

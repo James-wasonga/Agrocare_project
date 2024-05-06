@@ -1,0 +1,44 @@
+footer {
+    background-color: #1A3803;
+    padding: 20px 0;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  
+  footer h3 {
+    margin-top: 0;
+    color: blue;
+  }
+  
+  footer div {
+    flex: 1;
+  }
+  
+  footer ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  footer ul li {
+    margin: 0;
+    margin-bottom: 10px;
+  }
+  
+  footer a {
+    color: white;
+    text-decoration: none;
+  margin-bottom: 2px;
+  }
+
+  footer a:hover {
+    color: yellow;
+    
+  }
+  
+  footer .container {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+  }

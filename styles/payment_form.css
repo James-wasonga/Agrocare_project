@@ -1,0 +1,130 @@
+ body {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+ 
+}
+label{
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  font-size: 14px;
+  font-weight: 300px;
+}
+
+.purchase_form{
+  background-color: whitesmoke;
+  width: 500px;
+  height: 600px; 
+  border: 1px solid #ccc;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.farmer_name{
+  display: flex;
+  justify-content: center;
+}
+.name{
+  width: 250px;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+
+.contact_info{
+  display: flex;
+  justify-content: center;
+}
+.farmer_location{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.submit_details{
+  float: right;
+  margin-top: 40px;
+  border: none;
+  padding: 10PX 20px;
+  background-color:#3e8e41;
+  border-radius: 10px;
+} 
+
+/**Card payment styles**/
+
+.payment{
+  width: 500px;
+  height: 500px;
+  background-color: white;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  padding: 10px 50px;
+  display: none;
+  flex-direction: column;
+  -webkit-box-shadow: 0px 0px 13px 2px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 0px 13px 2px rgba(0, 0, 0, 0.3);
+
+}
+.payTitle{
+  font-size: 20px;
+  color: lightgray;
+}
+
+
+.payInput{
+  padding: 10px;
+  margin: 10px 0px;
+  border: none;
+  border-bottom: 1px solid gray;
+}
+
+.payInput::placeholder{
+  color: rgba(163, 163,163);
+}
+
+.cardIcons{
+  display: flex;
+}
+
+.cardIcon{
+  margin-right: 10px;
+}
+.sm{
+  width: 30%;
+}
+.payButton{
+  position: absolute;
+  height:40px;
+  bottom: -40px;
+  width: 100%;
+  left: 0; 
+  -webkit-box-shadow: 0px 0px 13px 2px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 0px 13px 2px rgba(0, 0, 0, 0.3);
+  background-color: #369e62;
+  cursor: pointer;
+  border: none;
+}
+
+.close{
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  background-color: gray;
+  color: white ;
+  top: 10px;
+  right: 10px;display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+

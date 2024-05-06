@@ -1,0 +1,63 @@
+.soil-img{
+    width: 1904px;
+}
+
+.soil1-img{
+    margin-top: 40px;
+    width: 800px;
+    height: 450px;
+    margin-left: 200px;
+    border-radius: 10px;
+}
+
+.stmt{
+    
+    margin-left: 1100px;
+    margin-top: -460px;
+}
+.soil-head{
+    color:rgb(16, 114, 16);
+    font-size: 25px;
+}
+ span{
+    display: block;
+    font-size: 20px;
+}
+.order{
+ margin-left: 1100px;
+}
+
+.order-btn{
+    background-color: lightseagreen;
+    width: 230px;
+    height: 50px;
+    border-radius: 25px;
+    color: white;
+    font-size: 17px;
+    border: none;
+    margin-top: 40px;
+}
+
+.order-btn:hover {
+ cursor: pointer;
+ color:  black;
+
+}
+
+.livestock-img {
+    width: 1704px;
+    height: 800px;
+}
+
+.stmts{
+    margin-top: 80px;
+    margin-left: 180px;
+}
+.tractor{
+    margin-left: 1100px;
+    margin-top: -480px;
+}
+.img{
+width: 700px;
+}
+

@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.search-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#serviceResults {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.service-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    display: inline-block;
+}
+
+.service-item p {
+    margin: 5px 0;
+}
+
+/* Add more CSS styling as needed */

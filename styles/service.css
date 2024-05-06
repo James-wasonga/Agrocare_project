@@ -1,0 +1,101 @@
+.top{
+    text-align: center;
+}
+
+.tophead{
+    font-size: 40px;
+    font-weight: 40px;
+    color: #169A15;
+    margin-top: 40px;
+}
+
+.topgraph span{
+    font-size: 25px;
+    display: block;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.iconimg{
+    text-align:center;
+    margin-top: 60px;
+}
+
+.servicebody{
+    background-color: #DEEDD2;
+    margin-top: -30px;
+    
+}
+
+.paragraph{
+    font-size: 20px;
+    font-weight: bold;
+}
+.soiltest{
+    margin-left: 90px;
+    padding-top: 60px;
+    
+}
+.soiltestimg{
+    width: 800px;
+    height: 450px;
+}
+.pestcontrol{
+    margin-left: 1000px;
+    margin-top: -555px;
+   
+}
+.pestcontrolimg{
+    width: 800px;
+    height: 450px;
+}
+.livestockmang{
+    margin-left: 90px;
+    padding-top: 60px;
+    
+}
+.livestockimg{
+    width: 800px;
+    height: 450px;
+}
+
+.farmequip{
+    margin-left: 1000px;
+    margin-top: -555px;
+}
+.farmequipimg{
+    width: 800px;
+    height: 450px;
+}
+.weatherforcast{
+    margin-left: 90px;
+    padding-top: 60px;
+   
+}
+.weatherimg{
+    width: 800px;
+    height: 450px;
+}
+.farmresearch{
+    margin-left: 1000px;
+    margin-top: -555px;
+   
+
+}
+.farmresearchimg{
+    width: 800px;
+    height: 450px;
+}
+.viewbtn{
+    color: #000000;
+    background-color:#3BBA0F ;
+    width: 120px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    
+}
+.viewbtn:hover{
+   color:white;
+   cursor: pointer;
+}
+

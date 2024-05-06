@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"name": "Agrocare_project",
+			"path": "../../../../../xampp/htdocs/Agrocare_project"
+		},
+		{
+			"name": "scripts",
+			"path": "../scripts"
+		},
+		{
+			"name": "agrochemicals",
+			"path": "."
+		},
+		{
+			"name": "fertilizers",
+			"path": "../fertilizers"
+		},
+		{
+			"name": "seeds",
+			"path": "../seeds"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}

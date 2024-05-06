@@ -1,0 +1,57 @@
+.body{
+    margin-left: 150px;
+}
+.pest-head{
+    color:green;
+    margin-left: 20px;
+}
+.spray{
+    font-size: 25px;
+    color: blue;
+}
+.pest2{
+    margin-left: 600px;
+    margin-top: -515px;
+
+}
+.head{
+    font-size: 28px;
+}
+
+.pest2-img{
+    height: 430px;
+}
+.research{
+    margin-left: 600px;
+    margin-top: -380px;
+}
+.research-img{
+    height: 300px;
+}
+.span-par span{
+    display: block;
+    font-size: 20px;
+}
+.span-paragraph{
+    font-size: 28px;
+    color:green;
+}
+.hire-btn{
+    color:black;
+    background-color: green ;
+    font-size: 20px;
+    font-weight: bold;
+    width: 150px;
+    height: 50px;
+    border-radius: 28px;
+    border:none;
+    
+}
+.hire-btn:hover{
+    color: blue;
+    cursor: pointer;
+
+}
+.supp-graph{
+    color: blue;
+}

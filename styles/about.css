@@ -1,0 +1,87 @@
+body{
+    background-image: url('../images/aboutimage.png');
+    margin: 0;
+    padding:0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, sans-serif; /* Specify font-family */
+    height: 300px;
+   
+    
+
+}
+
+.aboutparagraph{
+    color: white;
+    font-size: 25px;
+    font-weight: bolder;
+    margin-top: 280px;
+    margin-left: 420px;
+    
+    
+}
+#alignparag{
+ margin-top: -40px;
+
+}
+
+.btn-about{
+    margin-left: 1500px;
+    margin-top: 200px;
+    width: 160px;
+   
+}
+#btn:hover{
+    color: white;
+    cursor: pointer;
+}
+
+#btn{
+    background-color:#2150F6;
+    color:black;
+    height: 50px;
+    width: 150px;
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.location{
+   
+    margin-top: 100px;
+}
+
+#imglocation{
+    width: 700px;
+    height: auto;
+    margin-left: 60px;
+}
+.aboutlocation{
+    margin-left: 1000px;
+    margin-top: -380px;
+    font-size: 13px;
+    
+}
+.para{
+    margin-top: 60px;
+    font-size: 20px;
+}
+.mission{
+    margin-top: 280px;
+    margin-left: 60px;
+    
+}
+.mission-paragraph{
+    font-size: 20px;
+
+}
+
+.vision{
+    margin-top: 50px;
+    margin-left: 60px;
+    
+}
+.vision-paragraph{
+    font-size: 20px;
+
+}
